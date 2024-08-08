@@ -11,7 +11,7 @@ st.markdown("Classifies in below classes")
 st.markdown('''
     :red[No tumor,] :orange[Pituitary tumor,] :green[Meningioma tumor, and] :blue[Glioma tumor.]
     ''')
-st.markdown('''we integrate :blue[Nillion's Nada AI for data privacy & blind computation.]
+st.markdown('''we are integrating :blue-background[Nillion's Nada AI for data privacy & blind computation.]
 ''')
 
 file = st.file_uploader(label='Upload image', type=['jpg','jpeg','png'], accept_multiple_files=False, key=None)
